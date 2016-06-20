@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContactInfo>
+  <Info id="1">
+    <cid>1</cid>
+    <Address id="address1">河南省北京市郑东新区商务外环路13号绿地 峰会天下28楼</Address>
+    <PhoneNumber>（0371）69190125 69190121</PhoneNumber>
+    <FaxNumber>（0371）69190150</FaxNumber>
+    <Email>222</Email>
+  </Info>
+</ContactInfo>

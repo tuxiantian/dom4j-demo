@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <!--This is a test for dom4j, holen, 2004.9.11-->
+  <book show="no">
+    
+  </book>
+  <book show="no">
+    <title>Lucene Studing</title>
+  </book>
+  <book show="no">
+    <title>Lucene in Action</title>
+  </book>
+  <owner>Tshinghua<date type="Gregorian calendar">2004-09-11</date></owner>
+</books>
